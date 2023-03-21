@@ -147,6 +147,7 @@ public class PracticePage {
         }
     }
 
+    //Checking Frame
     public void validateIframe(){
 
         if(frame1.isDisplayed()){
